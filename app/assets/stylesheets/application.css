@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+.container {
+  justify-content: center;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#btn-submit {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  border: grey;
+}
+
+#question {
+  border-radius: 10px;
+}
+
+.title {
+  margin-top: 30px;
+}
